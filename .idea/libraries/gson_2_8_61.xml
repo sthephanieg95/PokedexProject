@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="gson-2.8.61">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/OneDrive/Escritorio/gson-2.8.6.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Escritorio/json-simple-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
